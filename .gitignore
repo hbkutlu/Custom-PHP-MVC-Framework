@@ -1,0 +1,40 @@
+# -------------------------
+# Ortam Dosyaları
+# -------------------------
+.env
+
+# -------------------------
+# Cache, Log, Temp
+# -------------------------
+*.log
+*.cache
+*.tmp
+*.bak
+
+# -------------------------
+# IDE Ayarları ve Sistem Dosyaları
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.iml
+
+# -------------------------
+# Composer Vendor
+# -------------------------
+vendor/
+
+# -------------------------
+# Node.js Klasörü
+# -------------------------
+node_modules/
+
+# -------------------------
+# Yedek .zip/.rar dosyaları
+# -------------------------
+*.zip
+*.rar

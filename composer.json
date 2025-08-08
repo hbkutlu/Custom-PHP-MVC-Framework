@@ -1,0 +1,10 @@
+{
+  "name": "custom/mvc-framework",
+  "description": "Simple MVC structure",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "core/"
+    }
+  }
+}
