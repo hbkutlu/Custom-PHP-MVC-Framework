@@ -47,7 +47,7 @@ project/
 1. Bu projeyi indir veya GitHub üzerinden klonla:
 
 ```bash
-git clone https://github.com/kullanici-adi/mvc-framework.git
+git clone https://github.com/hbkutlu/mvc-framework.git
 ```
 
 2. Klasörü `htdocs` içine taşı.
@@ -55,7 +55,7 @@ git clone https://github.com/kullanici-adi/mvc-framework.git
 3. Tarayıcından şu URL’yi aç:
 
 ```
-http://localhost/mvc-framework/public
+http://localhost/mvc/public
 ```
 
 ### English:
@@ -63,7 +63,7 @@ http://localhost/mvc-framework/public
 1. Download or clone this project:
 
 ```bash
-git clone https://github.com/your-username/mvc-framework.git
+git clone https://github.com/hbkutlu/mvc-framework.git
 ```
 
 2. Move it to your `htdocs` folder.
@@ -71,7 +71,7 @@ git clone https://github.com/your-username/mvc-framework.git
 3. Access it in your browser:
 
 ```
-http://localhost/mvc-framework/public
+http://localhost/mvc/public
 ```
 
 ---
@@ -99,8 +99,8 @@ http://localhost/mvc-framework/public
 
 ## 👨‍💻 Geliştirici / Developer
 
-Bu proje [Senin İsmin / GitHub Adın] tarafından geliştirilmiştir.  
-This structure was developed by [Your Name / GitHub Username].
+Bu proje [Hasan Behram KUTLU / hbkutlu] tarafından geliştirilmiştir.  
+This structure was developed by [Hasan Behram KUTLU / hbkutlu].
 
 > Her türlü katkıya açığım. PR göndermekten çekinme!  
 > Contributions are welcome. Feel free to submit a PR!
